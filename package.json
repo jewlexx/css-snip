@@ -1,0 +1,12 @@
+{
+  "name": "css-snip",
+  "version": "1.0.0",
+  "repository": "https://github.com/jewlexx/css-snip",
+  "license": "MIT",
+  "author": "Juliette Cordor <61040004+jewlexx@users.noreply.github.com>",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@types/chrome": "0.0.188",
+    "typescript": "4.6.4"
+  }
+}
